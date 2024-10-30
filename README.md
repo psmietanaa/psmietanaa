@@ -17,7 +17,7 @@ With a focus on automating deployment processes, I strive to enhance the overall
 * Creation of software delivery standards for the company
 * Building CI/CD pipelines for over 30+ microservices
 * Migration of services to containers and Kubernetes
-* Ownership of internal platform services like JFrog Artifactory, Harbor, Sentry, GitHub Actions Runners, Ansible AWX, Keycloak, Backstage, and more.
+* Ownership of internal platform services like JFrog Artifactory, Harbor, Sentry, GitHub Actions Runners, Ansible AWX, Backstage, and more.
 * Managing public and on-premise cloud infrastructure
 * Implementing monitoring and alerting solutions
 * 24/7 on-call support
