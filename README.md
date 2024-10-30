@@ -1,10 +1,10 @@
 <div align="center">
     <h1>
-        <image src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrdmtreHE1bHVvdmU3bGVmOXhqbTV6MzMxbnBrZHFidm9mYzRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="110"/>
+        <image src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VrdmtreHE1bHVvdmU3bGVmOXhqbTV6MzMxbnBrZHFidm9mYzRzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="110" />
     </h1>
     <div>
         <a href="https://www.linkedin.com/in/piotr-smietana/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
     </div>
 </div>
